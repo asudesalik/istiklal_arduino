@@ -1,4 +1,4 @@
-# 🇹🇷 İstiklal Marşı - Arduino
+# İstiklal Marşı - Arduino
 
 Arduino Uno ile buzzer ve I2C LCD kullanarak
 İstiklal Marşı çalan devre projesi.
